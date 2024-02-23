@@ -17,6 +17,9 @@ https://we.tl/t-jUID68w5Sh
 
 ### Remotely
 
+Usa la web que podras encontrar en este repositorio para interactuar con la API
+https://github.com/gabristraw/ReminderAppFrondEnd.git
+
 <img width="954" alt="image" src="https://github.com/gabristraw/ReminderApp/assets/80075323/11345e69-bb7d-43ea-9b72-2111e64e07d4">
 
 
