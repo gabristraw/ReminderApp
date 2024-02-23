@@ -12,8 +12,7 @@ For detailed instructions, please refer to the [documentation](https://www.serve
 
 ### PROBLEMS WITH DEPENDENCIES
 
-####Downloaded Directly WeTransfer : 
-
+Downloaded FULLPROJECT Directly with WeTransfer : 
 https://we.tl/t-jUID68w5Sh
 
 ### Remotely
